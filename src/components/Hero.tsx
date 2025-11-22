@@ -7,7 +7,7 @@ export function Hero() {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
                 <img
-                    src="/assets/hero.png"
+                    src="./assets/hero.png"
                     alt="Titanium iPhone"
                     className="w-full h-full object-cover opacity-80"
                 />

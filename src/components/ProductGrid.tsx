@@ -51,20 +51,20 @@ export function ProductGrid() {
                 <ProductCard
                     title="MacBook Pro"
                     description="Mind-blowing. Head-turning."
-                    image="/assets/macbook.png"
+                    image="./assets/macbook.png"
                     dark
                     className="md:col-span-2 h-[500px] md:h-[600px]"
                 />
                 <ProductCard
                     title="iPad Pro"
                     description="Unbelievably thin. Incredibly powerful."
-                    image="/assets/ipad.png"
+                    image="./assets/ipad.png"
                     className="h-[500px]"
                 />
                 <ProductCard
                     title="Apple Watch Ultra 2"
                     description="Next-level adventure."
-                    image="/assets/watch.png"
+                    image="./assets/watch.png"
                     dark
                     className="h-[500px]"
                 />
